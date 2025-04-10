@@ -1,0 +1,15 @@
+pyttsx3
+SpeechRecognition
+keyboard
+opencv-python
+imdbpy
+wolframalpha
+pyautogui
+python-decouple
+python-dotenv
+openai
+requests
+wikipedia
+pywhatkit
+Pillow
+pygame
